@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/veritech_internship/static/css/main.ebe9cdf8.css",
+    "main.js": "/veritech_internship/static/js/main.cc249390.js",
+    "static/media/profile.png": "/veritech_internship/static/media/profile.5faf09a7795d28bf5a2b.png",
+    "index.html": "/veritech_internship/index.html",
+    "main.ebe9cdf8.css.map": "/veritech_internship/static/css/main.ebe9cdf8.css.map",
+    "main.cc249390.js.map": "/veritech_internship/static/js/main.cc249390.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebe9cdf8.css",
+    "static/js/main.cc249390.js"
+  ]
+}
